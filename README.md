@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-Hi, I'm **Ahtisham Saleem** an Electrical Engineer and AI Research Engineer building intelligent systems at the intersection of hardware and machine learning.
+Hi, I'm **Ahtisham Saleem**, an Electrical Engineer and AI Research Engineer building intelligent systems at the intersection of hardware and machine learning.
 
 ## What I Do
 
