@@ -45,18 +45,6 @@ Hardware prototype designed for efficient voltage regulation with a variable dut
 - ☁️ **Cloud–Edge hybrid AI** architectures  
 - ⚙️ **MLOps** for model lifecycle automation  
 
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhtishamSaleem&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhtishamSaleem&theme=radical"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhtishamSaleem&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
